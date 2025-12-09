@@ -35,8 +35,5 @@ public class Main {
         zoo.addAnimal(klausTheApe);
 
         zoo.calculateFoodNecessary();
-
-//        System.out.println();
-//        System.out.println(cat.equals(dog));
     }
 }
