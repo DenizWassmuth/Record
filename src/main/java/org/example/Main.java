@@ -17,13 +17,11 @@ public class Main {
 
         System.out.println();
         System.out.println(georgeTheApe);
-        //System.out.print("\n");
         System.out.println(rogerTheSnake);
         System.out.println("George equals Roger: " + georgeTheApe.equals(rogerTheSnake));
 
         System.out.println();
         System.out.println(georgeTheApe);
-        //System.out.print("\n");
         System.out.println(klausTheApe);
         System.out.println("George equals Klaus: " + georgeTheApe.equals(klausTheApe));
 
