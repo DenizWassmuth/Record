@@ -37,7 +37,7 @@ public class Main {
         Animal georgeTheApe = new Animal(1, ape, "George", 5,
                 new Owner("Ralf", "Schubert", 55, "Am Horn", 99));
 
-        Animal klausTheApe = new Animal(1, ape, "George", 5,
+        Animal klausTheApe = new Animal(1, ape, "Klaus", 5,
                 new Owner("Ralf", "Schmidt", 55, "Am Tal", 99));
 
         Animal rogerTheSnake = new Animal(2, new Species("Snake", 100), "Roger", 5,
