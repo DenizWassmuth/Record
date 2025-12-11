@@ -15,7 +15,7 @@ public record Zoo() {
             return;
         }
 
-        if (animals.containsKey(animal.age()))
+        if (animals.containsKey(animal.id()))
         {
             return;
         }
