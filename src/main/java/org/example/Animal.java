@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.Objects;
-
 public record Animal(int id, Species species, String name, int age, Owner owner) {
 
 //    @Override
