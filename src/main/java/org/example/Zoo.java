@@ -38,6 +38,6 @@ public record Zoo() {
             totalFood += animal.species().foodInGrams();
         }
 
-        System.out.println("Total food needed per day: " + totalFood);
+        System.out.println("Total food needed per day: " + totalFood " g");
     }
 }
